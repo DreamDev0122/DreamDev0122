@@ -8,7 +8,7 @@
 <p>Key skills </p>
 <ul>
   <li>JavaScript libraries (React.js, Angular.js, Vue.js)</li>
-  <li>Node.js, PHP/Laravel/CodeIgniter, RoR, .NET/C#</li>
+  <li>Django, Node.js, PHP/Laravel/CodeIgniter, RoR, .NET/C#</li>
   <li>MySQL, PostgreSQL, MongoDB, Cloud Firestore | Firebase</li>
   <li>AWS, Azure, Heroku, DigitalOcean, Bluehost/GoDaddy/Cloudflare</li>
   <li>Stripe, Paypal, Payment Integration</li>

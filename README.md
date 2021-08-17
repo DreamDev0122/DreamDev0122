@@ -2,7 +2,7 @@
   <img width="460" height="300" src="https://miro.medium.com/proxy/0*9N9J9YiGJrISLIBP.png">
 </p>
 
-<h3>Senior FrontEnd Developer</h3>
+<h3>Senior Blockchain developer</h3>
 <p>❤Lovely Senior Software Developer❤ with 7-plus years of experience in collaborating with creative and development teams on the execution of ideas and projects.</p>
 
 <p>Key skills </p>

@@ -14,7 +14,3 @@
   <li>Stripe, Paypal, Payment Integration</li>
   <li>Ethereum, Solidity, Smart Contract, NFT, ERC20, ERC721, Web3.js, Daps, Defi, Dex</li>
 </ul>
-
-<p>Contact Me : 
-  <a href="mailto:Bond.Soft0122@gmail.com?Subject=Hello hotali7" alt="Bond.Soft0122@gmail.com">eMail - Bond.Soft0122@gmail.com</a>
-</p>
